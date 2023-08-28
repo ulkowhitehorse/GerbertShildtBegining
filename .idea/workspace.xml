@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de06ded8-9b63-45d7-aaef-0e702ff06cee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter4/exercice4_1/HelpClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter4/exercice4_2/Finalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/exercise5_1/Bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter1/step1/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/step1/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter1/step1/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter1/step1/Hello.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +36,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.HelpClassDemo">
+  <component name="RunManager" selected="Application.Bubble">
+    <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.exercise5_1.Bubble" />
+      <module name="GerbertShildtBegining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.exercise5_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.step1.Hello" />
       <module name="GerbertShildtBegining" />
@@ -66,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bubble" />
         <item itemvalue="Application.HelpClassDemo" />
         <item itemvalue="Application.Hello" />
       </list>
