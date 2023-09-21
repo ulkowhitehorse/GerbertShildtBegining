@@ -5,13 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de06ded8-9b63-45d7-aaef-0e702ff06cee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GerbertShildtBegining.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/exercise5_/Encode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/exercise5_/LowCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/exercise5_/ShowBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/exercise5_3/ShowBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/exercise5_3/ShowBitsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/QSDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/Quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/SDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/SDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/StaticDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerbertShildtBegining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GerbertShildtBegining.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter1/step1/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter1/step1/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter4/exercice4_1/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter4/exercice4_1/Help.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter4/exercice4_1/HelpClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter4/exercice4_1/HelpClassDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter4/exercice4_2/FDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter4/exercice4_2/FDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter4/exercice4_2/Finalize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter4/exercice4_2/Finalize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_/Encode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_/Encode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_/LowCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_/LowCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_/ShowBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_/ShowBits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_1/Bubble.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_1/Bubble.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_1/PrintMass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_1/PrintMass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_2/QDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_2/QDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_2/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_2/Queue.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,20 +72,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Encode">
-    <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.exercise5_1.Bubble" />
-      <module name="GerbertShildtBegining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter5.exercise5_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.QSDemo">
     <configuration name="Encode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter5.exercise5_.Encode" />
       <module name="GerbertShildtBegining" />
@@ -82,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.exercise5_.LowCase" />
+    <configuration name="QSDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.QSDemo" />
       <module name="GerbertShildtBegining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.exercise5_.*" />
+          <option name="PATTERN" value="chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.exercise5_2.QDemo" />
+    <configuration name="SDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.SDemo" />
       <module name="GerbertShildtBegining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.exercise5_2.*" />
+          <option name="PATTERN" value="chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +112,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.exercise5_.ShowBits" />
+    <configuration name="SDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.SDemo3" />
       <module name="GerbertShildtBegining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.exercise5_.*" />
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShowBitsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.exercise5_3.ShowBitsDemo" />
+      <module name="GerbertShildtBegining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.exercise5_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QSDemo" />
+        <item itemvalue="Application.SDemo3" />
+        <item itemvalue="Application.SDemo" />
+        <item itemvalue="Application.ShowBitsDemo" />
         <item itemvalue="Application.Encode" />
-        <item itemvalue="Application.LowCase" />
-        <item itemvalue="Application.ShowBits" />
-        <item itemvalue="Application.QDemo" />
-        <item itemvalue="Application.Bubble" />
       </list>
     </recent_temporary>
   </component>
