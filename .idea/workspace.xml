@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de06ded8-9b63-45d7-aaef-0e702ff06cee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/exercise5_3/ShowBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/exercise5_3/ShowBitsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/QSDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/Quicksort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/SDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/SDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/StaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/StaticDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/NestedClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/Outer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GerbertShildtBegining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GerbertShildtBegining.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter1/step1/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter1/step1/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter4/exercice4_1/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter4/exercice4_1/Help.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter4/exercice4_1/HelpClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter4/exercice4_1/HelpClassDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter4/exercice4_2/FDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter4/exercice4_2/FDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter4/exercice4_2/Finalize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter4/exercice4_2/Finalize.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_/Encode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_/Encode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_/LowCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_/LowCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_/ShowBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_/ShowBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_1/Bubble.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_1/Bubble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_1/PrintMass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_1/PrintMass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_2/QDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_2/QDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/exercise5_2/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/exercise5_2/Queue.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +51,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.QSDemo">
-    <configuration name="Encode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.exercise5_.Encode" />
+  <component name="RunManager" selected="Application.NestedClassDemo">
+    <configuration name="NestedClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.NestedClassDemo" />
       <module name="GerbertShildtBegining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.exercise5_.*" />
+          <option name="PATTERN" value="chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NestedClassDemo" />
         <item itemvalue="Application.QSDemo" />
         <item itemvalue="Application.SDemo3" />
         <item itemvalue="Application.SDemo" />
         <item itemvalue="Application.ShowBitsDemo" />
-        <item itemvalue="Application.Encode" />
       </list>
     </recent_temporary>
   </component>
